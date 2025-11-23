@@ -93,7 +93,7 @@ pip install -r requirements.txt
 3. Chạy dashboard:
 ```bash
 cd dashboard
-python app.py
+streamlit run app.py
 ```
 
 4. Mở trình duyệt và truy cập địa chỉ được hiển thị trong terminal.
